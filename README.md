@@ -23,7 +23,7 @@ The algo is written for webcam you can also upload it on your CCTV.
       
       d) Datetime   (pip install datetime)
      
-2) Clone the directory on your system by using command : git clone https://github.com/sanjulsharma/CUC-CCTV-Under-Check.git
+2) Clone the directory on your system by using command : git clone https://github.com/poojagupta14/CUC-CCTV-Under-Check.git
 
 3) Download the weight from the given link (https://pjreddie.com/media/files/yolov3.weights) and place it in cloned floder of the repository.
 
